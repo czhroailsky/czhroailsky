@@ -1,8 +1,8 @@
 ### Hi there ●‿●
 
-![Society of small ideas.](https://github.com/czhroailsky/czhroailsky/blob/master/images/git.png)
-
 My blog with random stuff: [Society of Small Ideas](https://czhroailsky.github.io/)
+
+![Society of small ideas.](https://github.com/czhroailsky/czhroailsky/blob/master/images/git.png)
 
 <!--
 **czhroailsky/czhroailsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
